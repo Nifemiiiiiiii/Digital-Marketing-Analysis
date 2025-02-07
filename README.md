@@ -1,6 +1,7 @@
-# Digital-Marketing-Analysis
+# Digital Marketing Analysis
 
 
+![image](https://github.com/user-attachments/assets/23be712d-a5e1-46c4-a0b0-bf990f296f14)
 
 
 ##### Project Overview: Analyze digital marketing campaign performance to optimize ROI and allocate budgets effectively.
@@ -33,7 +34,16 @@
 
 
 ### Exploratory Data Analysis 
-
+Analyze the marketing spending.
+What to answer
+1. Overall ROMI
+2.  ROMI by campaigns
+3.   Performance of the campaign depending on the date - on which date did we spend the most money on
+advertising, when we got the biggest revenue when conversion rates were high and low? What were the average
+order values?
+4. When buyers are more active? What is the average revenue on weekdays and weekends?
+5. Which types of campaigns work best - social, banner, influencer, or a search?
+6. Which geo locations are better for targeting - tier 1 or tier 2 cities?
 
 ### Data Analysis 
 ##### Includes some interesting Dax Measures i worked with 
@@ -125,6 +135,8 @@ SUMX(
 ```
 
 ### Key Insights and Findings 
+
+![Oluwanifesimi Adebayo Digital Marketing Analysis](https://github.com/user-attachments/assets/3f5c9052-ca92-4052-bfb5-55dfb902bc9d)
 ###### The analysis findings are as follow: 
 
 1. ROMI: ₹0.40 overall return on marketing investment.
@@ -136,6 +148,24 @@ social media had the lowest CPC at ₹9.2
 4. Conversion Rates: Influencer marketing had the highest conversion rate (0.18).
 5. Geographic Performance: Tier 1 cities generated the highest ROMI.
 
+![Screenshot (63)](https://github.com/user-attachments/assets/e8ce470b-57ce-41eb-93de-d13f2bfd6951)
+
 
 ### Recommendations 
 Based on the visual analysis of the data, several actionable insights and recommendations emerge:
+* Reallocate Budget: Focus on YouTube and social media campaigns to maximize ROI.
+
+* Target Tier 1 Cities: Increase marketing efforts in high-performing regions.
+
+* Improve Conversion Rates: Optimize landing pages and ad creatives for influencer marketing.
+
+
+## Business Value: 
+Companies can optimize marketing spend and improve campaign performance.
+
+
+
+### Limitations 
+* Data Scope: The dataset only includes data from specific campaigns, limiting the generalizability of the findings.
+
+* Temporal Bias: The data may not account for recent changes in customer behavior or platform algorithms.
