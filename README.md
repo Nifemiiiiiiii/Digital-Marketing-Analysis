@@ -4,15 +4,20 @@
 ![image](https://github.com/user-attachments/assets/23be712d-a5e1-46c4-a0b0-bf990f296f14)
 
 
-##### Project Overview: Analyze digital marketing campaign performance to optimize ROI and allocate budgets effectively.
+## Project Overview
+
+Analyze digital marketing campaign performance to optimize ROI and allocate budgets effectively.
 
 
 ![Screenshot (63)](https://github.com/user-attachments/assets/e8ce470b-57ce-41eb-93de-d13f2bfd6951)
 
 
-##### Key Questions: Which channels generate the highest ROI? What is the cost per lead (CPL) and cost per click (CPC)? How do conversion rates vary by channel?
+### Key Questions
+* Which channels generate the highest ROI?
+* What is the cost per lead (CPL) and cost per click (CPC)?
+* How do conversion rates vary by channel?
 
-### Data Sources:
+### Data Sources
 
 ##### The primary data set used was from Quantum Analytics NG digital marketing performance data "marketing_data.CSV" file, containing detailed information about digital marketing performance in the company 
 
