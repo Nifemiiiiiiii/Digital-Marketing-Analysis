@@ -5,6 +5,11 @@
 
 
 ##### Project Overview: Analyze digital marketing campaign performance to optimize ROI and allocate budgets effectively.
+
+
+![Screenshot (63)](https://github.com/user-attachments/assets/e8ce470b-57ce-41eb-93de-d13f2bfd6951)
+
+
 ##### Key Questions: Which channels generate the highest ROI? What is the cost per lead (CPL) and cost per click (CPC)? How do conversion rates vary by channel?
 
 ### Data Sources:
@@ -148,7 +153,7 @@ social media had the lowest CPC at ₹9.2
 4. Conversion Rates: Influencer marketing had the highest conversion rate (0.18).
 5. Geographic Performance: Tier 1 cities generated the highest ROMI.
 
-![Screenshot (63)](https://github.com/user-attachments/assets/e8ce470b-57ce-41eb-93de-d13f2bfd6951)
+
 
 
 ### Recommendations 
